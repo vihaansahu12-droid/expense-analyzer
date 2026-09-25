@@ -1,6 +1,5 @@
 # test_checks.py
 # Simple checks for the core functions, using plain if/else and print
-# Run from project root: python tests/test_checks.py
 
 import sys
 import os
