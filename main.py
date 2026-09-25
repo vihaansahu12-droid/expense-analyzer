@@ -1,5 +1,4 @@
 # main.py
-# Personal Expense Analyzer - command line program. Data is entered analyzed and organised in this code.
 # you can run the code by typing "python main.py" in the terminal
 
 import expense_input
